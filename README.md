@@ -1,2 +1,2 @@
-# URL-shortener
+# URL-Shortener
 Micro-SaaS for URL shortening
